@@ -1,7 +1,7 @@
 ### Hi there 👋 
 ### My name hari. 
-### I work in a shipyard as engineer , i do quite a lot of inclining tests and sea trials. 
-### I am very ok with computers 
+### I am engineer at a shipyard. 
+### I like to work with computers.  
 
 
 
