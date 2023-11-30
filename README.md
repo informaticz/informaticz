@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 
+### My name hari. 
+### I work in a shipyard as engineer , i do quite a lot of inclining tests and sea trials. 
+### I am very ok with computers 
+
+
+
+
+
 
 <!--
 **informatikz/informatikz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
