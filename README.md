@@ -1,9 +1,5 @@
-### Hi there 👋 
-### My name hari. 
-### I am engineer at a shipyard. 
-### I like to work with computers.  
-
-
+ Hi there 👋 
+ My name is hari. 
 
 
 
