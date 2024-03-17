@@ -1,5 +1,8 @@
  Hi there 👋 
- My name is hari. 
+My name is hari.
+I studied naval architecture and shipbuilding.
+my technical work is used in  newbuild, shiprepar , shipconversion.
+I prepare stability booklets, measure and report sea trial reports, structural analysis and reports.
 
 
 
